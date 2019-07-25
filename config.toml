@@ -26,11 +26,10 @@ googleAnalytics = "your ga id"
 
 # social link in the footer, change it to "" hide it
 [social]
-    github = " "
-    facebook = " "
-    twitter = " "
-    behance = " "
-    email = " "
+    github = "https://github.com/EdsonSrv"
+    twitter = "https://twitter.com/MoteEdson/"
+ #   gitlab = " "
+ #   linkedin = " "
 
 # author, title, description are used in the home page, you can embed html tag in description
 [params]
