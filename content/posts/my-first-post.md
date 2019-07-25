@@ -7,5 +7,5 @@ tags: ["Development", "Go", "fast", "Blogging"]
 ---
 # Hello World!
 
-Hi! I'm Edson this is my first post for test the theme,
+Hi! I am Edson this is my first post for test the theme,
 I will start publishing my experiences shortly

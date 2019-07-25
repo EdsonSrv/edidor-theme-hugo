@@ -1,7 +1,7 @@
 theme = "edidor"
-title = "Edidor Demo"
+title = "EdsonSrvn"
 baseurl = ""
-AuthorName = "Jon Doe"
+AuthorName = "Edson S."
 # place your logo file to ./static/images to set logo
 
 # i18n is not completed yet, help is appreciated.
